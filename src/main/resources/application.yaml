@@ -2,9 +2,9 @@ spring:
   application:
     name: user-service
   datasource:
-    url: jdbc:postgresql://localhost:7777/mydatabase
-    username: postgres
-    password: asif
+    url: jdbc:postgresql://localhost:xyz/mydatabase
+    username: xyz
+    password: xyz
     driver-class-name: org.postgresql.Driver
     hikari:
       connection-timeout: 20000
